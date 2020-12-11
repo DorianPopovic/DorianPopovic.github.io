@@ -4,18 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Can I include the interactive plot?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-Here is some example text for an exciting blog post. Deep blockchain learning is the future, blah, blah, etc.
-
-Does this work?
-
-And then you keep writing your exciting blog post.
+{% include example_plot.html %}
 
 ### My story
 
