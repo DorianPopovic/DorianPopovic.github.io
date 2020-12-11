@@ -13,7 +13,7 @@ What else do you need?
 
 Here is some example text for an exciting blog post. Deep blockchain learning is the future, blah, blah, etc.
 
-{% include example_plot.html %}
+Does this work?
 
 And then you keep writing your exciting blog post.
 
