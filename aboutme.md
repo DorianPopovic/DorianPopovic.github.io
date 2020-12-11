@@ -11,6 +11,12 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
+Here is some example text for an exciting blog post. Deep blockchain learning is the future, blah, blah, etc.
+
+{% include example_plot.html %}
+
+And then you keep writing your exciting blog post.
+
 ### My story
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
