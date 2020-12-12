@@ -6,4 +6,6 @@ subtitle: Avouez ca pète sa mère
 
 Here are our agglomerative cluster results
 
+{% include aggplot.html %}
+
 {% include aggplot_counts_final.html %}
