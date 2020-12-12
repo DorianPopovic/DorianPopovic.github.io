@@ -12,3 +12,5 @@ Here are our agglomerative cluster results
 
 {% include boxplot_pss.html %}
 
+{% include boxplot_cesds.html %}
+
