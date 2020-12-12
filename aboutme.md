@@ -14,3 +14,6 @@ Here are our agglomerative cluster results
 
 {% include boxplot_cesds.html %}
 
+{% include mean_satisfaction.html %}
+
+
