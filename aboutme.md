@@ -3,6 +3,9 @@ layout: page
 title: MOJO TEAM
 subtitle: Avouez ca pète sa mère
 ---
+{% include before_PISO.html %}
+
+{% include after_PISO.html %}
 
 Here are our agglomerative cluster results
 
