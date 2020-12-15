@@ -3,6 +3,9 @@ layout: page
 title: MOJO TEAM
 subtitle: Avouez ca pète sa mère
 ---
+{% include pre_treatment_proportions.html %}
+
+
 {% include before_PISO.html %}
 
 {% include after_PISO.html %}
