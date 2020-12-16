@@ -15,7 +15,7 @@ subtitle: Avouez ca pète sa mère
 
 {% include satisfaction_regression-1.html %}
 
-{% include psscesds_regression.html %}
+{% include psscesds_regression-1.html %}
 
 Here are our agglomerative cluster results
 
