@@ -13,7 +13,7 @@ subtitle: Avouez ca pète sa mère
 
 {% include cement_regression-1.html %}
 
-{% include satisfaction_regression.html %}
+{% include satisfaction_regression-1.html %}
 
 {% include psscesds_regression.html %}
 
