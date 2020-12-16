@@ -13,6 +13,10 @@ subtitle: Avouez ca pète sa mère
 
 {% include cement_regression.html %}
 
+{% include satisfaction_regression.html %}
+
+{% include psscesds_regression.html %}
+
 Here are our agglomerative cluster results
 
 {% include aggplot.html %}
