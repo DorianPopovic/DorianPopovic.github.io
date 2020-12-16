@@ -5,6 +5,7 @@ subtitle: Avouez ca pète sa mère
 ---
 {% include pre_treatment_proportions.html %}
 
+{% include pre_treatment_average.html %}
 
 {% include before_PISO.html %}
 
