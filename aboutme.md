@@ -11,6 +11,8 @@ subtitle: Avouez ca pète sa mère
 
 {% include after_PISO.html %}
 
+{% include cement_regression.html %}
+
 Here are our agglomerative cluster results
 
 {% include aggplot.html %}
